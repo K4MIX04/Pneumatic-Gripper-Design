@@ -1,4 +1,4 @@
-<img width="1037" height="631" alt="image" src="https://github.com/user-attachments/assets/51a3e321-f176-4b7d-9e65-60378a7b4920" /><img width="1037" height="631" alt="image" src="https://github.com/user-attachments/assets/1905c9c4-8590-44b9-a79b-d24a413c9f36" /># Pneumatic Gripper Design (University Project)
+# Pneumatic Gripper Design (University Project)
 
 This repository contains an academic project completed as part of my Automation and Robotics degree at AGH University of Science and Technology. I am sharing it here purely as a portfolio piece to showcase my workflow in mechanical design, CAD modeling, and engineering calculations.
 
@@ -13,7 +13,7 @@ The goal of the assignment was to design a functional pneumatic gripper capable 
 
 ---
 
-### 📷 Project Gallery
+### Project Gallery
 
 *<img width="1037" height="631" alt="image" src="https://github.com/user-attachments/assets/7adb03ce-c00d-43f9-be49-8b811a0174fa" />*
 **Fig 1.** 3D Render of the designed gripper.
