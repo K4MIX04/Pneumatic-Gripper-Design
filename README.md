@@ -2,7 +2,7 @@
 
 This repository contains an academic project completed as part of my Automation and Robotics degree at AGH University of Science and Technology. I am sharing it here purely as a portfolio piece to showcase my workflow in mechanical design, CAD modeling, and engineering calculations.
 
-## 🛠️ Project Overview
+## Project Overview
 The goal of the assignment was to design a functional pneumatic gripper capable of lifting a specific payload, starting from basic kinematic equations up to a complete 3D assembly and technical documentation.
 
 ### Key phases of the project:
