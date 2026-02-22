@@ -1,12 +1,12 @@
 # Pneumatic Gripper Design (University Project)
 
-This repository contains an academic project completed as part of my Automation and Robotics degree at AGH University of Science and Technology. I am sharing it here purely as a portfolio piece to showcase my workflow in mechanical design, CAD modeling, and engineering calculations.
+This repository contains an academic project completed as part of my Automation and Robotics degree at AGH University of Science and Technology.
 
 ## Project Overview
 The goal of the assignment was to design a functional pneumatic gripper capable of lifting a specific payload, starting from basic kinematic equations up to a complete 3D assembly and technical documentation.
 
 ### Key phases of the project:
-* **Kinematic & Force Analysis:** Mathematical calculations and simulations (using SAM and GeoGebra) to determine the required gripping forces and stroke lengths.
+* **Kinematic & Force Analysis:** Mathematical calculations and simulations (using SAM) to determine the required gripping forces and stroke lengths.
 * **Component Selection:** Sizing and selecting an appropriate pneumatic cylinder from the industrial **Festo** catalog.
 * **CAD Modeling & FEA:** 3D parametric modeling and stress analysis (von Mises) performed in **Autodesk Inventor** to verify structural integrity.
 * **Technical Documentation:** Creation of 2D assembly drawings and a complete Bill of Materials (BOM).
